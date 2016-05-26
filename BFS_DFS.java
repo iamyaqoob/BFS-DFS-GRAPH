@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
  
- class BFS-DFS{
+ class BFS_DFS{
 	  static class graph{
 		 int vertex;
 		 LinkedList<Integer> adj[];

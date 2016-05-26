@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.math.BigInteger; 
-class BFS-DFS-TOPOLOGICAL{
+class BFS_DFS_TOPOLOGICAL{
 	static class graph{
 		 int vertex;
 		 LinkedList<Integer> adj[];
